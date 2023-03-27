@@ -197,15 +197,15 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 
-/*PICTURES*/
-.pictures{
-    margin-top: 40px;
-    max-width: 100%;
-    height: auto;
+.main__whyShop_title{
+    background: #FFCC00;
+    font-size: 9em;
+    text-align: center;
+    padding: 50px ;
 }
-.pictures__item{
-    max-width: 100%;
-    height: auto;
+
+.main__bannerblock_img{
+    width: 100%;
 }
 
 
